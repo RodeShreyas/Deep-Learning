@@ -1,1 +1,2 @@
 # Deep-Learning
+Deep learning is a subfield of machine learning that uses neural networks with many layers to automatically learn patterns from large amounts of data.It also uses artificial neural networks to learn from data. Artificial neural networks are inspired by the human brain, and they can be used to solve a wide variety of problems, including image recognition, natural language processing, and speech recognition.![Deep-learning](https://github.com/user-attachments/assets/d5912314-d46d-40ea-a18f-dc665f1e240c)
